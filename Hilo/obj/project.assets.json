@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Quezada C#\\game\\game.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\TI\\BYU-CSE210\\Hilo\\hilo\\game.csproj",
       "projectName": "game",
-      "projectPath": "C:\\Users\\PC\\Desktop\\Quezada C#\\game\\game.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\TI\\BYU-CSE210\\Hilo\\hilo\\game.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\Quezada C#\\game\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\TI\\BYU-CSE210\\Hilo\\hilo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
